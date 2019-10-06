@@ -7,6 +7,6 @@ Preruisite to run:
 3)Install puppeteer in the current folder
 
 
-To run the project using node run test or node "example.js" file
+To run the project using npm run test or node "example.js" file
 
 
